@@ -135,7 +135,7 @@ namespace GTAMod
                         Game.Player.IsInvincible = false;
                         Game.Player.Character.IsInvincible = false;
 
-                        godMode.Text = "God Mode " + false.ToString();
+                        godMode.Text = "God Mode: " + false.ToString();
                     }
                 }
             };
